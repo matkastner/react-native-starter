@@ -1,4 +1,4 @@
-package com.awesomeproject-mat-tester-app;
+package com.awesomeprojectmattesterapp;
 
 import com.facebook.react.ReactActivity;
 

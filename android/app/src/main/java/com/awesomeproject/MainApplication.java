@@ -1,4 +1,4 @@
-package com.awesomeproject-mat-tester-app;
+package com.awesomeprojectmattesterapp;
 
 import android.app.Application;
 
